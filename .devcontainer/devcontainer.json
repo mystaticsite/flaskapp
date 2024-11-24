@@ -27,5 +27,11 @@
       ]
     }
   },
-  "forwardPorts": [5000]
+  "forwardPorts": [
+    5000
+  ],
+  "features": {
+    "ghcr.io/oleksis/devcontainer-features/python-launcher:1": {},
+    "ghcr.io/devcontainers-extra/features/json-server:1": {}
+  }
 }
